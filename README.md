@@ -5,7 +5,7 @@ Sugasawa, S., Kubokawa, T. and Rao, J. N. K. (2018).  Small area estimation via 
 
 Functions are implemented in `USLM-function.R` available in the repository.
 ```{r}
-source("USLM-function.R)
+source("USLM-function.R")
 ```
  
 We use the following synthetic data using logistic link function.
